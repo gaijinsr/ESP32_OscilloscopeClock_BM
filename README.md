@@ -1,4 +1,4 @@
-# ESP32 Oscilloscope Clock using a BM logo as a minute hand
+# ESP32 Oscilloscope Clock using a BM logo as a seconds hand
 
 This is a fork of https://github.com/maurohh/ESP32_OscilloscopeClock/
 
